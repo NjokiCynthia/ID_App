@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ID_App</string>
+    <string name="please_enter_your_id_number">Please enter your ID number.</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="gender">Gender:</string>
+    <string name="female">Female</string>
+    <string name="male">male</string>
+</resources>
